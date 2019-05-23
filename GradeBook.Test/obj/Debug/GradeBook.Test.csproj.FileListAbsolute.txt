@@ -1,0 +1,17 @@
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\GradeBook.Test.dll
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\GradeBook.Test.pdb
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Gradebook.exe
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Gradebook.pdb
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Gradebook.exe.config
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\obj\Debug\GradeBook.Test.csprojAssemblyReference.cache
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\obj\Debug\GradeBook.Test.csproj.CoreCompileInputs.cache
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\obj\Debug\GradeBook.Test.csproj.CopyComplete
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\obj\Debug\GradeBook.Test.dll
+C:\Users\S837444\Desktop\gradebook\GradeBook.Test\obj\Debug\GradeBook.Test.pdb

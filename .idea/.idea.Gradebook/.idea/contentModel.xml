@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\S837444\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\S837444\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Gradebook.1044520308.00" t="ExcludeRecursive" />
+    <e p="C:\Users\S837444\Desktop\gradebook" t="IncludeFlat">
+      <e p="gradebook" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Book.cs" t="Include" />
+        <e p="Gradebook.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Statistics.cs" t="Include" />
+      </e>
+      <e p="Gradebook.sln" t="IncludeFlat" />
+      <e p="GradeBook.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BookTests.cs" t="Include" />
+        <e p="GradeBook.Test.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="TypeTests.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="MSTest.TestAdapter.1.3.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+        <e p="MSTest.TestAdapter.1.3.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+        <e p="MSTest.TestAdapter.1.3.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
