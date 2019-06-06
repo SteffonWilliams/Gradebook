@@ -10,7 +10,8 @@ namespace Gradebook
     {
         public double Average;
         public double Low;
-        public double High; 
+        public double High;
+        public char Letter;
 
     }
 }

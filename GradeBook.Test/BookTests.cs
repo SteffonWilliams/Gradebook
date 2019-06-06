@@ -1,13 +1,15 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Gradebook;
+using NUnit.Framework;
+using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
 
 namespace GradeBook.Test
 {
-    [TestClass]
+    [TestFixture]
     public class BookTests
     {
-        [TestMethod]
+        [Test]
         public void TestStatistics()
         {
             //Given 
@@ -24,6 +26,7 @@ namespace GradeBook.Test
             Assert.AreEqual(85.5,result.Average);
             Assert.AreEqual(90.1, result.High);
             Assert.AreEqual(77.3, result.Low); 
+            Assert.AreEqual('B', result.Letter);
         }
     }
 }

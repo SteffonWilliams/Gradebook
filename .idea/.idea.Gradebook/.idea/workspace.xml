@@ -1,7 +1,163 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+    <treeState key="project">
+      <selectedPath>
+        <pathElement>
+          <option name="myNodeId" value="helperText" />
+          <option name="myNodeType" value="jetbrains.buildServer.tree.descriptors.LinkedTextDescriptor" />
+        </pathElement>
+      </selectedPath>
+    </treeState>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3ae9d4a-2a6d-48b4-97da-186980fea0f4" name="Default Changelist" comment="" />
+    <list default="true" id="e3ae9d4a-2a6d-48b4-97da-186980fea0f4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Gradebook/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Gradebook/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Gradebook/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Gradebook/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/Gradebook/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Gradebook/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/BookTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/BookTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/GradeBook.Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/GradeBook.Test.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/TypeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/TypeTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/GradeBook.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/GradeBook.Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/GradeBook.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/GradeBook.Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Gradebook.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Gradebook.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Gradebook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeBook.Test/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/Book.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/Gradebook.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/Gradebook.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/Statistics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/Statistics.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/.signature.p7s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/MSTest.TestFramework.1.3.2.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,41 +165,26 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GradeBook.Test/TypeTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            <state relative-caret-position="187">
+              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
-                <marker date="1557510965453" expanded="false" signature="6:82" ph="..." />
-                <marker date="1557510965453" expanded="true" signature="108:1582" ph="{...}" />
-                <marker date="1557510965453" expanded="true" signature="153:1580" ph="{...}" />
-                <marker date="1557510965453" expanded="true" signature="228:396" ph="{...}" />
-                <marker date="1557510965453" expanded="true" signature="461:529" ph="{...}" />
-                <marker date="1557510965453" expanded="true" signature="597:766" ph="{...}" />
-                <marker date="1557510965453" expanded="true" signature="821:873" ph="{...}" />
-                <marker date="1557510965453" expanded="true" signature="948:1205" ph="{...}" />
-                <marker date="1557510965453" expanded="true" signature="1279:1484" ph="{...}" />
-                <marker date="1557510965453" expanded="true" signature="1519:1574" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gradebook/Book.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-              <folding>
-                <marker date="1557509467079" expanded="true" signature="6:115" ph="..." />
-                <marker date="1557509467079" expanded="true" signature="136:1037" ph="{...}" />
-                <marker date="1557509467079" expanded="true" signature="159:1035" ph="{...}" />
-                <marker date="1557509467079" expanded="true" signature="286:373" ph="{...}" />
-                <marker date="1557509467079" expanded="true" signature="417:920" ph="{...}" />
-                <marker date="1557509467079" expanded="true" signature="636:827" ph="{...}" />
-                <marker date="1557509467079" expanded="true" signature="964:1029" ph="{...}" />
+                <marker date="1559743603114" expanded="false" signature="6:173" ph="..." />
+                <marker date="1559743603114" expanded="true" signature="199:1968" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="246:1966" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="296:409" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="449:490" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="520:563" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="634:800" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="865:933" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="995:1164" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="1219:1271" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="1340:1597" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="1665:1870" ph="{...}" />
+                <marker date="1559743603114" expanded="true" signature="1905:1960" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -52,12 +193,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gradebook/Statistics.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
               <folding>
-                <marker date="1557498300409" expanded="false" signature="6:115" ph="..." />
-                <marker date="1557498300409" expanded="true" signature="136:268" ph="{...}" />
-                <marker date="1557498300409" expanded="true" signature="166:266" ph="{...}" />
+                <marker date="1559760697105" expanded="true" signature="6:115" ph="..." />
+                <marker date="1559760697105" expanded="true" signature="136:295" ph="{...}" />
+                <marker date="1559760697105" expanded="true" signature="166:293" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -66,28 +207,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gradebook/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="358">
+              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
               <folding>
-                <marker date="1558552477870" expanded="false" signature="6:115" ph="..." />
-                <marker date="1558552477870" expanded="true" signature="136:691" ph="{...}" />
-                <marker date="1558552477870" expanded="true" signature="156:689" ph="{...}" />
-                <marker date="1558552477870" expanded="true" signature="202:683" ph="{...}" />
+                <marker date="1559765446749" expanded="true" signature="6:115" ph="..." />
+                <marker date="1559765446749" expanded="true" signature="136:1185" ph="{...}" />
+                <marker date="1559765446749" expanded="true" signature="156:1183" ph="{...}" />
+                <marker date="1559765446749" expanded="true" signature="202:1177" ph="{...}" />
+                <marker date="1559765446749" expanded="true" signature="353:689" ph="{...}" />
+                <marker date="1559765446749" expanded="true" signature="523:587" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GradeBook.Test/BookTests.cs">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gradebook/Book.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="112">
+              <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
               <folding>
-                <marker date="1557509467094" expanded="false" signature="6:82" ph="..." />
-                <marker date="1557509467094" expanded="true" signature="108:638" ph="{...}" />
-                <marker date="1557509467094" expanded="true" signature="153:636" ph="{...}" />
-                <marker date="1557509467094" expanded="true" signature="217:630" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="6:115" ph="..." />
+                <marker date="1559765879058" expanded="true" signature="136:3011" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="159:3009" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="295:382" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="431:1138" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="442:644" ph="/* if (letter == 'A') ... */" />
+                <marker date="1559765879058" expanded="true" signature="688:1115" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="1191:1440" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="1245:1310" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="1327:1430" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="1492:2997" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="1681:1785" ph="/* foreach (var number in grades) ... */" />
+                <marker date="1559765879058" expanded="true" signature="1839:2181" ph="{...}" />
+                <marker date="1559765879058" expanded="true" signature="1854:1967" ph="/* if (grades[i] == 42.1) ... */" />
+                <marker date="1559765879058" expanded="true" signature="2289:2948" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -95,31 +249,48 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Gradebook/Book.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Gradebook/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GradeBook.Test/BookTests.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Gradebook/Statistics.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/GradeBook.Test/TypeTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Gradebook/Statistics.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/GradeBook.Test/TypeTests.cs" />
+        <option value="$PROJECT_DIR$/Gradebook/Statistics.cs" />
+        <option value="$PROJECT_DIR$/GradeBook.Test/BookTests.cs" />
         <option value="$PROJECT_DIR$/Gradebook/Program.cs" />
+        <option value="$PROJECT_DIR$/Gradebook/Book.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="32" />
-    <option name="width" value="1208" />
-    <option name="height" value="813" />
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/dbnavigator.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/codeStyles/Project.xml" />
+      </list>
+    </option>
   </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="886" />
+    <option name="y" value="-1115" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -143,12 +314,15 @@
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -162,7 +336,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Default">
+  <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -183,7 +357,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\S837444\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -196,11 +370,23 @@
       <workItem from="1558459712962" duration="1583000" />
       <workItem from="1558552330252" duration="33000" />
       <workItem from="1558552387068" duration="745000" />
+      <workItem from="1558634943529" duration="1262000" />
+      <workItem from="1558636308578" duration="1735000" />
+      <workItem from="1558640570964" duration="147000" />
+      <workItem from="1558640829720" duration="400000" />
+      <workItem from="1558641781056" duration="766000" />
+      <workItem from="1558700343508" duration="1751000" />
+      <workItem from="1558702113195" duration="185000" />
+      <workItem from="1558702562033" duration="56000" />
+      <workItem from="1558703832514" duration="2891000" />
+      <workItem from="1558712509243" duration="3001000" />
+      <workItem from="1559740587569" duration="1028000" />
+      <workItem from="1559742606948" duration="8768000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3639000" />
+    <option name="totallyTimeSpent" value="25629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -212,34 +398,73 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <frame x="886" y="-1115" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23714653" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16906667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" weight="0.15303643" />
+      <window_info id="Azure Explorer" order="4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49678662" weight="0.30343008" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4993573" weight="0.39973614" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49013335" weight="0.30108696" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7117845" weight="0.5189702" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.65937203" weight="0.71847826" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49967846" weight="0.3298153" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" order="12" sideWeight="0.4993573" visible="true" weight="0.32585752" />
-      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3298153" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50064266" side_tool="true" visible="true" weight="0.32585752" />
-      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.4974293" weight="0.32849604" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.49226665" weight="0.35434783" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49839228" weight="0.30474934" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50773335" side_tool="true" weight="0.35434783" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.48426667" weight="0.32608697" />
+      <window_info anchor="bottom" id="DB Execution Console" order="16" />
+      <window_info anchor="bottom" id="TeamCity" order="17" sideWeight="0.49967846" weight="0.3298153" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="18" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.1951417" />
+      <window_info anchor="right" id="Flashcards" order="6" side_tool="true" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16906667" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="DB Browser" order="3" weight="0.15303643" />
+      <window_info id="Azure Explorer" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49013335" weight="0.30108696" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7117845" weight="0.5189702" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.65937203" weight="0.7195122" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49967846" weight="0.3298153" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.49226665" visible="true" weight="0.35434783" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49839228" weight="0.30474934" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50773335" side_tool="true" visible="true" weight="0.35434783" />
+      <window_info anchor="bottom" id="Build" order="15" sideWeight="0.48426667" weight="0.32608697" />
+      <window_info anchor="bottom" id="DB Execution Console" order="16" />
+      <window_info anchor="bottom" id="TeamCity" order="17" sideWeight="0.49967846" weight="0.3298153" />
+      <window_info anchor="bottom" id="Azure Activity Log" order="18" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.1951417" />
+      <window_info anchor="right" id="Flashcards" order="6" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -253,92 +478,92 @@
           <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Gradebook/Book.cs</url>
-          <line>15</line>
-          <properties documentPath="$PROJECT_DIR$/Gradebook/Book.cs" initialLine="15">
-            <startOffsets>
-              <option value="309" />
-            </startOffsets>
-            <endOffsets>
-              <option value="337" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GradeBook.Test/TypeTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <marker date="1559743603114" expanded="false" signature="6:173" ph="..." />
+            <marker date="1559743603114" expanded="true" signature="199:1968" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="246:1966" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="296:409" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="449:490" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="520:563" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="634:800" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="865:933" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="995:1164" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="1219:1271" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="1340:1597" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="1665:1870" ph="{...}" />
+            <marker date="1559743603114" expanded="true" signature="1905:1960" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Gradebook/Statistics.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
           <folding>
-            <marker date="1557498300409" expanded="false" signature="6:115" ph="..." />
-            <marker date="1557498300409" expanded="true" signature="136:268" ph="{...}" />
-            <marker date="1557498300409" expanded="true" signature="166:266" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gradebook/Book.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-          <folding>
-            <marker date="1557509467079" expanded="true" signature="6:115" ph="..." />
-            <marker date="1557509467079" expanded="true" signature="136:1037" ph="{...}" />
-            <marker date="1557509467079" expanded="true" signature="159:1035" ph="{...}" />
-            <marker date="1557509467079" expanded="true" signature="286:373" ph="{...}" />
-            <marker date="1557509467079" expanded="true" signature="417:920" ph="{...}" />
-            <marker date="1557509467079" expanded="true" signature="636:827" ph="{...}" />
-            <marker date="1557509467079" expanded="true" signature="964:1029" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gradebook/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
-          <folding>
-            <marker date="1558552477870" expanded="false" signature="6:115" ph="..." />
-            <marker date="1558552477870" expanded="true" signature="136:691" ph="{...}" />
-            <marker date="1558552477870" expanded="true" signature="156:689" ph="{...}" />
-            <marker date="1558552477870" expanded="true" signature="202:683" ph="{...}" />
+            <marker date="1559760697105" expanded="true" signature="6:115" ph="..." />
+            <marker date="1559760697105" expanded="true" signature="136:295" ph="{...}" />
+            <marker date="1559760697105" expanded="true" signature="166:293" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/GradeBook.Test/BookTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="476">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
-            <marker date="1557509467094" expanded="false" signature="6:82" ph="..." />
-            <marker date="1557509467094" expanded="true" signature="108:638" ph="{...}" />
-            <marker date="1557509467094" expanded="true" signature="153:636" ph="{...}" />
-            <marker date="1557509467094" expanded="true" signature="217:630" ph="{...}" />
+            <marker date="1559761334679" expanded="true" signature="6:173" ph="..." />
+            <marker date="1559761334679" expanded="true" signature="199:774" ph="{...}" />
+            <marker date="1559761334679" expanded="true" signature="246:772" ph="{...}" />
+            <marker date="1559761334679" expanded="true" signature="304:766" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GradeBook.Test/TypeTests.cs">
+    <entry file="file://$PROJECT_DIR$/Gradebook/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        <state relative-caret-position="358">
+          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
           <folding>
-            <marker date="1557510965453" expanded="false" signature="6:82" ph="..." />
-            <marker date="1557510965453" expanded="true" signature="108:1582" ph="{...}" />
-            <marker date="1557510965453" expanded="true" signature="153:1580" ph="{...}" />
-            <marker date="1557510965453" expanded="true" signature="228:396" ph="{...}" />
-            <marker date="1557510965453" expanded="true" signature="461:529" ph="{...}" />
-            <marker date="1557510965453" expanded="true" signature="597:766" ph="{...}" />
-            <marker date="1557510965453" expanded="true" signature="821:873" ph="{...}" />
-            <marker date="1557510965453" expanded="true" signature="948:1205" ph="{...}" />
-            <marker date="1557510965453" expanded="true" signature="1279:1484" ph="{...}" />
-            <marker date="1557510965453" expanded="true" signature="1519:1574" ph="{...}" />
+            <marker date="1559765446749" expanded="true" signature="6:115" ph="..." />
+            <marker date="1559765446749" expanded="true" signature="136:1185" ph="{...}" />
+            <marker date="1559765446749" expanded="true" signature="156:1183" ph="{...}" />
+            <marker date="1559765446749" expanded="true" signature="202:1177" ph="{...}" />
+            <marker date="1559765446749" expanded="true" signature="353:689" ph="{...}" />
+            <marker date="1559765446749" expanded="true" signature="523:587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gradebook/Book.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
+          <folding>
+            <marker date="1559765879058" expanded="true" signature="6:115" ph="..." />
+            <marker date="1559765879058" expanded="true" signature="136:3011" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="159:3009" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="295:382" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="431:1138" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="442:644" ph="/* if (letter == 'A') ... */" />
+            <marker date="1559765879058" expanded="true" signature="688:1115" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="1191:1440" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="1245:1310" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="1327:1430" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="1492:2997" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="1681:1785" ph="/* foreach (var number in grades) ... */" />
+            <marker date="1559765879058" expanded="true" signature="1839:2181" ph="{...}" />
+            <marker date="1559765879058" expanded="true" signature="1854:1967" ph="/* if (grades[i] == 42.1) ... */" />
+            <marker date="1559765879058" expanded="true" signature="2289:2948" ph="{...}" />
           </folding>
         </state>
       </provider>

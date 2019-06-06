@@ -5,3 +5,29 @@ C:\Users\S837444\Desktop\Gradebook\Gradebook\obj\Debug\Gradebook.csprojAssemblyR
 C:\Users\S837444\Desktop\Gradebook\Gradebook\obj\Debug\Gradebook.csproj.CoreCompileInputs.cache
 C:\Users\S837444\Desktop\Gradebook\Gradebook\obj\Debug\Gradebook.exe
 C:\Users\S837444\Desktop\Gradebook\Gradebook\obj\Debug\Gradebook.pdb
+C:\Users\S837444\Desktop\gradebook\Gradebook\bin\Debug\nunit.framework.dll
+C:\Users\S837444\Desktop\gradebook\Gradebook\bin\Debug\nunit.framework.pdb
+C:\Users\S837444\Desktop\gradebook\Gradebook\bin\Debug\nunit.framework.xml
+C:\Users\S837444\Desktop\gradebook\Gradebook\obj\Debug\Gradebook.csproj.CopyComplete
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\bin\Debug\Gradebook.exe.config
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\bin\Debug\Gradebook.exe
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\bin\Debug\Gradebook.pdb
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\bin\Debug\nunit.framework.dll
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\bin\Debug\nunit.framework.pdb
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\bin\Debug\nunit.framework.xml
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.csprojAssemblyReference.cache
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.csproj.CoreCompileInputs.cache
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.csproj.CopyComplete
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.exe
+C:\Users\S837444\Desktop\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.pdb
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\bin\Debug\Gradebook.exe.config
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\bin\Debug\Gradebook.exe
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\bin\Debug\Gradebook.pdb
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\bin\Debug\nunit.framework.dll
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\bin\Debug\nunit.framework.pdb
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\bin\Debug\nunit.framework.xml
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.csprojAssemblyReference.cache
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.csproj.CoreCompileInputs.cache
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.csproj.CopyComplete
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.exe
+C:\Users\S837444\Desktop\Work Documents\Rider Presentation\gradebook\Gradebook\obj\Debug\Gradebook.pdb

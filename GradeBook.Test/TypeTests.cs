@@ -1,18 +1,38 @@
 ﻿using System;
 using Gradebook;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NUnit.Framework;
+using Assert = Microsoft.VisualStudio.TestTools.UnitTesting.Assert;
 
 namespace GradeBook.Test
 {
-    [TestClass]
+    [TestFixture]
     public class TypeTests
     {
 
-        [TestMethod]
+        [Test]
+        public void Test1()
+        {
+            var x = GetInt();
+            SetInt(ref x); 
+            Assert.AreEqual(42,x);
+        }
+
+        private void SetInt(ref int x)
+        {
+            x = 42; 
+        }
+
+        private int GetInt()
+        {
+            return 3; 
+        }
+        
+        [Test]
         public void CSharpCanPassByReference()
         {
             var book1 = GetBook("Book 1");
-            GetBookSetName(ref book1, "New Name");
+            GetBookSetName(ref book1, "Book 1");
 
             Assert.AreEqual("Book 1", book1.Name);
 
@@ -25,7 +45,7 @@ namespace GradeBook.Test
             
         }
 
-        [TestMethod]
+        [Test]
         public void CanSetNameFromReference()
         {
             var book1 = GetBook("Book 1");
@@ -41,7 +61,7 @@ namespace GradeBook.Test
             book1.Name = name; 
         }
 
-        [TestMethod]
+        [Test]
         public void GetBookReturnsDifferentObjects()
         {
             var book1 = GetBook("Book 1"); 
@@ -53,7 +73,7 @@ namespace GradeBook.Test
 
         }
 
-        [TestMethod]
+        [Test]
         public void TwoVarsCanReferenceSameObject()
         {
             var book1 = GetBook("Book 1");
