@@ -32,131 +32,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3ae9d4a-2a6d-48b4-97da-186980fea0f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Gradebook/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Gradebook/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Gradebook/v15/.suo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Gradebook/v15/Server/sqlite3/storage.ide-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Gradebook/v15/Server/sqlite3/storage.ide-shm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/Gradebook/v15/Server/sqlite3/storage.ide-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/Gradebook/v15/Server/sqlite3/storage.ide-wal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/BookTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/BookTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/GradeBook.Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/GradeBook.Test.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/TypeTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/TypeTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/GradeBook.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/GradeBook.Test.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/GradeBook.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/GradeBook.Test.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Gradebook.exe" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Gradebook.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Gradebook.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.dll" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/obj/Debug/GradeBook.Test.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeBook.Test/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/GradeBook.Test/packages.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/Book.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/Book.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/Gradebook.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/Gradebook.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gradebook/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/Statistics.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/Statistics.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/bin/Debug/Gradebook.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Gradebook/obj/Debug/Gradebook.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/.signature.p7s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/MSTest.TestFramework.1.3.2.nupkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/net45/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/netstandard1.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.XML" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/cs/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/de/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/es/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/it/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ja/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ko/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pl/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/pt/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/ru/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/tr/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/MSTest.TestFramework.1.3.2/lib/uap10.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.TestFramework.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -165,12 +42,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GradeBook.Test/TypeTests.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="204">
+              <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               <folding>
                 <marker date="1559743603114" expanded="false" signature="6:173" ph="..." />
                 <marker date="1559743603114" expanded="true" signature="199:1968" ph="{...}" />
@@ -204,27 +81,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gradebook/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+            <state relative-caret-position="321">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
               <folding>
-                <marker date="1559765446749" expanded="true" signature="6:115" ph="..." />
-                <marker date="1559765446749" expanded="true" signature="136:1185" ph="{...}" />
-                <marker date="1559765446749" expanded="true" signature="156:1183" ph="{...}" />
-                <marker date="1559765446749" expanded="true" signature="202:1177" ph="{...}" />
-                <marker date="1559765446749" expanded="true" signature="353:689" ph="{...}" />
-                <marker date="1559765446749" expanded="true" signature="523:587" ph="{...}" />
+                <marker date="1559829747611" expanded="true" signature="6:115" ph="..." />
+                <marker date="1559829747611" expanded="true" signature="136:1372" ph="{...}" />
+                <marker date="1559829747611" expanded="true" signature="156:1370" ph="{...}" />
+                <marker date="1559829747611" expanded="true" signature="202:1364" ph="{...}" />
+                <marker date="1559829747611" expanded="true" signature="353:875" ph="{...}" />
+                <marker date="1559829747611" expanded="true" signature="523:586" ph="{...}" />
+                <marker date="1559829747611" expanded="true" signature="607:739" ph="{...}" />
+                <marker date="1559829747611" expanded="true" signature="775:861" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gradebook/Book.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
+            <state relative-caret-position="-7">
               <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
               <folding>
                 <marker date="1559765879058" expanded="true" signature="6:115" ph="..." />
@@ -265,8 +144,8 @@
         <option value="$PROJECT_DIR$/GradeBook.Test/TypeTests.cs" />
         <option value="$PROJECT_DIR$/Gradebook/Statistics.cs" />
         <option value="$PROJECT_DIR$/GradeBook.Test/BookTests.cs" />
-        <option value="$PROJECT_DIR$/Gradebook/Program.cs" />
         <option value="$PROJECT_DIR$/Gradebook/Book.cs" />
+        <option value="$PROJECT_DIR$/Gradebook/Program.cs" />
       </list>
     </option>
   </component>
@@ -291,30 +170,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Gradebook" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Gradebook" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Gradebook" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Gradebook" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="GradeBook.Test" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,11 +242,12 @@
       <workItem from="1558712509243" duration="3001000" />
       <workItem from="1559740587569" duration="1028000" />
       <workItem from="1559742606948" duration="8768000" />
+      <workItem from="1559829200057" duration="548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25629000" />
+    <option name="totallyTimeSpent" value="26177000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,6 +260,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="886" y="-1115" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16906667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -418,7 +280,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49967846" weight="0.3298153" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" sideWeight="0.49226665" weight="0.35434783" />
-      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49839228" weight="0.30474934" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="13" sideWeight="0.49839228" visible="true" weight="0.3043478" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50773335" side_tool="true" weight="0.35434783" />
       <window_info anchor="bottom" id="Build" order="15" sideWeight="0.48426667" weight="0.32608697" />
       <window_info anchor="bottom" id="DB Execution Console" order="16" />
@@ -482,10 +344,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/GradeBook.Test/BookTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <marker date="1559761334679" expanded="true" signature="6:173" ph="..." />
+            <marker date="1559761334679" expanded="true" signature="199:774" ph="{...}" />
+            <marker date="1559761334679" expanded="true" signature="246:772" ph="{...}" />
+            <marker date="1559761334679" expanded="true" signature="304:766" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/GradeBook.Test/TypeTests.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           <folding>
             <marker date="1559743603114" expanded="false" signature="6:173" ph="..." />
             <marker date="1559743603114" expanded="true" signature="199:1968" ph="{...}" />
@@ -516,37 +391,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GradeBook.Test/BookTests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding>
-            <marker date="1559761334679" expanded="true" signature="6:173" ph="..." />
-            <marker date="1559761334679" expanded="true" signature="199:774" ph="{...}" />
-            <marker date="1559761334679" expanded="true" signature="246:772" ph="{...}" />
-            <marker date="1559761334679" expanded="true" signature="304:766" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gradebook/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="40" column="12" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-          <folding>
-            <marker date="1559765446749" expanded="true" signature="6:115" ph="..." />
-            <marker date="1559765446749" expanded="true" signature="136:1185" ph="{...}" />
-            <marker date="1559765446749" expanded="true" signature="156:1183" ph="{...}" />
-            <marker date="1559765446749" expanded="true" signature="202:1177" ph="{...}" />
-            <marker date="1559765446749" expanded="true" signature="353:689" ph="{...}" />
-            <marker date="1559765446749" expanded="true" signature="523:587" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Gradebook/Book.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
+        <state relative-caret-position="-7">
           <caret line="61" column="67" selection-start-line="61" selection-start-column="67" selection-end-line="61" selection-end-column="67" />
           <folding>
             <marker date="1559765879058" expanded="true" signature="6:115" ph="..." />
@@ -564,6 +411,23 @@
             <marker date="1559765879058" expanded="true" signature="1839:2181" ph="{...}" />
             <marker date="1559765879058" expanded="true" signature="1854:1967" ph="/* if (grades[i] == 42.1) ... */" />
             <marker date="1559765879058" expanded="true" signature="2289:2948" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gradebook/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <marker date="1559829747611" expanded="true" signature="6:115" ph="..." />
+            <marker date="1559829747611" expanded="true" signature="136:1372" ph="{...}" />
+            <marker date="1559829747611" expanded="true" signature="156:1370" ph="{...}" />
+            <marker date="1559829747611" expanded="true" signature="202:1364" ph="{...}" />
+            <marker date="1559829747611" expanded="true" signature="353:875" ph="{...}" />
+            <marker date="1559829747611" expanded="true" signature="523:586" ph="{...}" />
+            <marker date="1559829747611" expanded="true" signature="607:739" ph="{...}" />
+            <marker date="1559829747611" expanded="true" signature="775:861" ph="{...}" />
           </folding>
         </state>
       </provider>

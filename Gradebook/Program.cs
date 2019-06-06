@@ -21,14 +21,24 @@ namespace Gradebook
 
                 if (input == "q")
                 {
-                    break; 
+                    break;
                 }
 
-                var grade = double.Parse(input);
-                book.AddGrade(grade);
+                try
+                {
+
+    
+                    var grade = double.Parse(input);
+                    book.AddGrade(grade);
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+                    
+                }
             }
 
-           // var inputGrade = double.Parse(Console.ReadLine()); 
+            // var inputGrade = double.Parse(Console.ReadLine()); 
             
             
 
